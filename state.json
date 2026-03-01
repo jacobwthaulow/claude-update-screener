@@ -1,0 +1,153 @@
+{
+  "githubClaudeCode": {
+    "lastTag": "v2.1.63"
+  },
+  "githubClaudeCodeAction": {
+    "lastTag": "v1.0.64"
+  },
+  "anthropicBlog": {
+    "knownSlugs": [
+      "statement-comments-secretary-war",
+      "statement-department-of-war",
+      "claude-sonnet-4-6",
+      "claude-is-a-space-to-think",
+      "acquires-vercept",
+      "responsible-scaling-policy-v3",
+      "detecting-and-preventing-distillation-attacks",
+      "claude-code-security",
+      "anthropic-rwanda-mou",
+      "anthropic-infosys",
+      "bengaluru-office-partnerships-across-india"
+    ]
+  },
+  "apiReleaseNotes": {
+    "dates": [
+      "February 19, 2026",
+      "April 19, 2026",
+      "February 17, 2026",
+      "February 7, 2026",
+      "February 5, 2026",
+      "February 1, 2026",
+      "January 29, 2026",
+      "January 12, 2026",
+      "September 16, 2025",
+      "January 5, 2026",
+      "December 19, 2025",
+      "December 4, 2025",
+      "November 24, 2025",
+      "November 21, 2025",
+      "November 19, 2025",
+      "November 18, 2025",
+      "November 14, 2025",
+      "October 28, 2025",
+      "October 16, 2025",
+      "October 15, 2025",
+      "September 29, 2025",
+      "September 17, 2025",
+      "September 10, 2025",
+      "September 8, 2025",
+      "September 5, 2025",
+      "September 3, 2025",
+      "September 2, 2025",
+      "August 27, 2025",
+      "August 26, 2025",
+      "August 19, 2025",
+      "August 18, 2025",
+      "August 13, 2025",
+      "August 12, 2025",
+      "August 11, 2025",
+      "August 8, 2025",
+      "August 5, 2025",
+      "July 28, 2025",
+      "July 24, 2025",
+      "July 21, 2025",
+      "July 17, 2025",
+      "July 3, 2025",
+      "June 30, 2025",
+      "June 23, 2025",
+      "June 11, 2025",
+      "May 22, 2025",
+      "May 21, 2025",
+      "May 7, 2025",
+      "May 1, 2025",
+      "December 16, 2025"
+    ]
+  },
+  "claudeAppsNotes": {
+    "dates": [
+      "February 25, 2026",
+      "February 24, 2026",
+      "February 17, 2026",
+      "February 13, 2026",
+      "February 12, 2026",
+      "February 5, 2026",
+      "January 16, 2026",
+      "January 12, 2026",
+      "December 18, 2025",
+      "November 24, 2025",
+      "October 23, 2025",
+      "October 15, 2025",
+      "September 29, 2025",
+      "September 18, 2025",
+      "September 16, 2025",
+      "September 11, 2025",
+      "September 9, 2025",
+      "September 3, 2025",
+      "August 27, 2025",
+      "August 26, 2025",
+      "August 21, 2025",
+      "August 20, 2025",
+      "August 15, 2025",
+      "August 12, 2025",
+      "August 11, 2025",
+      "August 6, 2025",
+      "August 5, 2025",
+      "August 1, 2025"
+    ]
+  },
+  "systemPrompts": {
+    "dates": [
+      "February 17, 2026",
+      "December 16, 2025",
+      "February 5, 2026",
+      "January 18, 2026",
+      "August 5, 2025",
+      "January 20, 2025",
+      "November 24, 2025",
+      "November 19, 2025",
+      "October 15, 2025",
+      "September 29, 2025"
+    ]
+  },
+  "statusPage": {
+    "lastGuid": "https://status.claude.com/incidents/pmx7385vm0z1",
+    "lastPubDate": "Sat, 28 Feb 2026 18:34:20 +0000"
+  },
+  "modelsPage": {
+    "models": [
+      "claude-haiku-4-5",
+      "claude-haiku-4-5-20251001",
+      "claude-haiku-4-5-20251001-v1",
+      "claude-opus-4",
+      "claude-opus-4-0",
+      "claude-opus-4-1",
+      "claude-opus-4-1-20250805",
+      "claude-opus-4-1-20250805-v1",
+      "claude-opus-4-20250514",
+      "claude-opus-4-20250514-v1",
+      "claude-opus-4-5",
+      "claude-opus-4-5-20251101",
+      "claude-opus-4-5-20251101-v1",
+      "claude-opus-4-6",
+      "claude-opus-4-6-v1",
+      "claude-sonnet-4",
+      "claude-sonnet-4-0",
+      "claude-sonnet-4-20250514",
+      "claude-sonnet-4-20250514-v1",
+      "claude-sonnet-4-5",
+      "claude-sonnet-4-5-20250929",
+      "claude-sonnet-4-5-20250929-v1",
+      "claude-sonnet-4-6"
+    ]
+  }
+}
