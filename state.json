@@ -3,7 +3,7 @@
     "lastTag": "v2.1.63"
   },
   "githubClaudeCodeAction": {
-    "lastTag": "v1.0.65"
+    "lastTag": "v1.0.66"
   },
   "anthropicBlog": {
     "knownSlugs": [
@@ -75,6 +75,7 @@
   },
   "claudeAppsNotes": {
     "dates": [
+      "March 2, 2026",
       "February 25, 2026",
       "February 24, 2026",
       "February 17, 2026",
@@ -120,8 +121,8 @@
     ]
   },
   "statusPage": {
-    "lastGuid": "https://status.claude.com/incidents/pmx7385vm0z1",
-    "lastPubDate": "Sat, 28 Feb 2026 18:34:20 +0000"
+    "lastGuid": "https://status.claude.com/incidents/kyj825w6vxr8",
+    "lastPubDate": "Tue, 03 Mar 2026 08:31:40 +0000"
   },
   "modelsPage": {
     "models": [
