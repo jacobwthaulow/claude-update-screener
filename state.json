@@ -1,9 +1,9 @@
 {
   "githubClaudeCode": {
-    "lastTag": "v2.1.66"
+    "lastTag": "v2.1.69"
   },
   "githubClaudeCodeAction": {
-    "lastTag": "v1.0.67"
+    "lastTag": "v1.0.69"
   },
   "anthropicBlog": {
     "knownSlugs": [
@@ -69,8 +69,7 @@
       "May 22, 2025",
       "May 21, 2025",
       "May 7, 2025",
-      "May 1, 2025",
-      "December 16, 2025"
+      "May 1, 2025"
     ]
   },
   "claudeAppsNotes": {
@@ -116,13 +115,12 @@
       "October 15, 2025",
       "September 29, 2025",
       "August 5, 2025",
-      "January 20, 2025",
-      "December 16, 2025"
+      "January 20, 2025"
     ]
   },
   "statusPage": {
-    "lastGuid": "https://status.claude.com/incidents/p7nq2jdg4zwj",
-    "lastPubDate": "Wed, 04 Mar 2026 08:32:41 +0000"
+    "lastGuid": "https://status.claude.com/incidents/5dbf8slk8mhr",
+    "lastPubDate": "Wed, 04 Mar 2026 17:01:30 +0000"
   },
   "modelsPage": {
     "models": [
