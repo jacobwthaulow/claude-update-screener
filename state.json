@@ -1,12 +1,13 @@
 {
   "githubClaudeCode": {
-    "lastTag": "v2.1.69"
+    "lastTag": "v2.1.70"
   },
   "githubClaudeCodeAction": {
-    "lastTag": "v1.0.69"
+    "lastTag": "v1.0.70"
   },
   "anthropicBlog": {
     "knownSlugs": [
+      "where-stand-department-war",
       "statement-comments-secretary-war",
       "statement-department-of-war",
       "claude-sonnet-4-6",
@@ -16,8 +17,7 @@
       "detecting-and-preventing-distillation-attacks",
       "claude-code-security",
       "anthropic-rwanda-mou",
-      "anthropic-infosys",
-      "bengaluru-office-partnerships-across-india"
+      "anthropic-infosys"
     ]
   },
   "apiReleaseNotes": {
