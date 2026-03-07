@@ -1,6 +1,6 @@
 {
   "githubClaudeCode": {
-    "lastTag": "v2.1.70"
+    "lastTag": "v2.1.71"
   },
   "githubClaudeCodeAction": {
     "lastTag": "v1.0.70"
@@ -12,12 +12,12 @@
       "statement-department-of-war",
       "claude-sonnet-4-6",
       "claude-is-a-space-to-think",
+      "mozilla-firefox-security",
       "acquires-vercept",
       "responsible-scaling-policy-v3",
       "detecting-and-preventing-distillation-attacks",
       "claude-code-security",
-      "anthropic-rwanda-mou",
-      "anthropic-infosys"
+      "anthropic-rwanda-mou"
     ]
   },
   "apiReleaseNotes": {
@@ -119,8 +119,8 @@
     ]
   },
   "statusPage": {
-    "lastGuid": "https://status.claude.com/incidents/5dbf8slk8mhr",
-    "lastPubDate": "Wed, 04 Mar 2026 17:01:30 +0000"
+    "lastGuid": "https://status.claude.com/incidents/jbc4ybjk83c6",
+    "lastPubDate": "Fri, 06 Mar 2026 17:16:12 +0000"
   },
   "modelsPage": {
     "models": [
